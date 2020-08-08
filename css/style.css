@@ -68,13 +68,3 @@ footer {
   article p{
     line-height: 3em;
   }
- /* #imgCat {
-    height: 70vh;
-  }*/
-  /*Large devices (desktops, 992px and up)*/
-@media (min-width: 992px) and (max-width: 1199.98px) { 
-  #imgCat {
-    height: 60vh;
-  }
- }
-}
